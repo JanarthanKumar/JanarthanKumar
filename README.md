@@ -44,7 +44,7 @@ A financial modeling mini-project designed to evaluate and visualize investment 
 ## 📫 Let's Connect
 
 * **LinkedIn:** www.linkedin.com/in/janarthan-kumar 
-* **Email:** [your.email@janakumar.tn.45.com](mailto:your.email@janakumar.tn.45.com) 
+* **Email:** [janakumar.tn.45@gmail.com](janakumar.tn.45@gmail.com) 
 
 ---
 💡 *Currently open for IT and Data Science placements and entry-level roles.*
