@@ -43,8 +43,8 @@ A financial modeling mini-project designed to evaluate and visualize investment 
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/your-profile-link](#) *(Update this link!)*
-* **Email:** [your.email@example.com](mailto:your.email@example.com) *(Update this link!)*
+* **LinkedIn:** www.linkedin.com/in/janarthan-kumar 
+* **Email:** [your.email@janakumar.tn.45.com](mailto:your.email@janakumar.tn.45.com) 
 
 ---
 💡 *Currently open for IT and Data Science placements and entry-level roles.*
